@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "addNumbers",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/6_Loops.sol": "Loops"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/6_Loops.sol": {
+			"keccak256": "0xa01640d8656c6226d2e342f83ac661a7cfe9dfc05d70554419bfb80f6159d312",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://28d7511f3f6ab1d0251767de78f32107e873d13a9d0f79e611688a630b1b2b7a",
+				"dweb:/ipfs/QmRNa7iAaUyfGgfYbpMRQaTx4daRcnfc5pVrhj7ePKpVSn"
+			]
+		}
+	},
+	"version": 1
+}
